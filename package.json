@@ -1,9 +1,0 @@
-{
-  "name": "nekoanimeid",
-  "version": "1.0.0",
-  "private": true,
-  "description": "NekoAnimeId anime catalog and authorized video embed integration",
-  "dependencies": {
-    "cheerio": "^1.0.0"
-  }
-}
